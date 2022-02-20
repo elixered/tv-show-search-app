@@ -1,0 +1,26 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 20px;
+  align-items: center;
+}
+*/ #searchForm {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+
+img {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+input:focus {
+  outline: none;
+}
