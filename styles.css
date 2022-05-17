@@ -9,7 +9,7 @@ body {
   margin-top: 20px;
   align-items: center;
 }
-*/ #searchForm {
+#searchForm {
   display: flex;
   justify-content: space-between;
   gap: 10px;
